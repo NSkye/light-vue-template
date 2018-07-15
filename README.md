@@ -1,5 +1,6 @@
 # HPMD
-Тестовое задание для компании Heads &amp; Hands
+Lightweight Vue template for personal use:
+webpack, babel, jest
 
 ```
 npm i
