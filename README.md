@@ -1,4 +1,3 @@
-# HPMD
 Lightweight Vue template for personal use:
 webpack, babel, jest
 
