@@ -1,5 +1,5 @@
 # HPMD
-Тестовое задание для компании Head &amp; Hands
+Тестовое задание для компании Heads &amp; Hands
 
 ```
 npm i
