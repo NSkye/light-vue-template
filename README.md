@@ -1,5 +1,4 @@
-Lightweight Vue template for personal use:
-webpack, babel, jest
+Lightweight Vue template for personal use: webpack, stylus, babel, jest
 
 ```
 npm i
